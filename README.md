@@ -139,6 +139,6 @@ College-Complaint-System/
 
 ## Developer
 
-Ramya Nadipalli
-- GitHub: https://github.com/ramya-nadipalli
-- Email: sriramyanadipalli@gmail.com
+Devi Ubbisetti
+- GitHub: https://github.com/ubbisettidevi-5
+- Email: ubbisettidevi@gmail.com
